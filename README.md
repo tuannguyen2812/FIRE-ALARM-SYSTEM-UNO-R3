@@ -50,7 +50,7 @@ Digital Pin (D7): The buzzer sounds an audible alarm during hazardous
 conditions, such as high gas levels or flame detection. The microcontroller can control
 the buzzer’s on/off states for effective alerting.<br>
 3. Result: <br>
-![image]<a href="https://drive.google.com/uc?export=view&id=1AqBP49oPx8ktcITM_EOvJU8CYTXIsJmy"><br>
+<a href="https://drive.google.com/uc?export=view&id=1AqBP49oPx8ktcITM_EOvJU8CYTXIsJmy"><img src="https://drive.google.com/uc?export=view&id=1AqBP49oPx8ktcITM_EOvJU8CYTXIsJmy" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br>
 <h3 align="left">III. Contribution</h3>
 Tran Van Tuong - Leader<br>
 Duong Ton Dung - Member<br>

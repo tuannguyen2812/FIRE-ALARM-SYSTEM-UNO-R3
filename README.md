@@ -7,7 +7,7 @@ A fire alarm system is designed as a combination of CCS-811, MQ-135, DHT11, and 
   
 <h3 align="left">II. Software Design</h3>
 1. Principle diagram<br>
-<a href="https://drive.google.com/uc?export=view&id=1Ooq0dr7KgEugzozxIUGMMsbSh2L9RBt3"><img src="https://drive.google.com/uc?export=view&id=1Ooq0dr7KgEugzozxIUGMMsbSh2L9RBt3" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br>
+<a href="https://drive.google.com/uc?export=view&id=1Ooq0dr7KgEugzozxIUGMMsbSh2L9RBt3"><img src="https://drive.google.com/uc?export=view&id=1Ooq0dr7KgEugzozxIUGMMsbSh2L9RBt3" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br><br>
 2. Configuration<br>
 - MQ-135 (Gas Sensor)<br>
 Analog Pin (A0): The MQ-135 sensor measures the concentration of various gases
@@ -50,7 +50,7 @@ Digital Pin (D7): The buzzer sounds an audible alarm during hazardous
 conditions, such as high gas levels or flame detection. The microcontroller can control
 the buzzer’s on/off states for effective alerting.<br>
 3. Result: <br>
-<a href="https://drive.google.com/uc?export=view&id=1AqBP49oPx8ktcITM_EOvJU8CYTXIsJmy"><img src="https://drive.google.com/uc?export=view&id=1AqBP49oPx8ktcITM_EOvJU8CYTXIsJmy" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br>
+<a href="https://drive.google.com/uc?export=view&id=1AqBP49oPx8ktcITM_EOvJU8CYTXIsJmy"><img src="https://drive.google.com/uc?export=view&id=1AqBP49oPx8ktcITM_EOvJU8CYTXIsJmy" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version."/></a><br><br>
 <h3 align="left">III. Contribution</h3>
 Tran Van Tuong - Leader<br>
 Duong Ton Dung - Member<br>
